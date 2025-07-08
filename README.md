@@ -12,23 +12,23 @@ A modern, responsive business website built with HTML, CSS, and Bootstrap for Bu
 
 ```
 
-## 🚀 Getting Started
+🚀 Getting Started
 
-### Prerequisites
+# Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - No additional software installation required
 
-### Installation
+# Installation
 1. Clone or download the project files
 2. Open `index.html` in your web browser
 3. The website will load automatically
 
-### Live Preview
+# Live Preview
 Simply open `index.html` in any web browser to view the website.
 
 ## 🎨 Design Features
 
-### Sections
+# Sections
 1. **Hero Section** - Eye-catching landing area with call-to-action buttons
 2. **About Section** - Company information with animated statistics
 3. **Services Section** - Six main service offerings with icons
@@ -36,13 +36,13 @@ Simply open `index.html` in any web browser to view the website.
 5. **Contact Section** - Contact form and company information
 6. **Footer** - Copyright and additional links
 
-### Color Scheme
+# Color Scheme
 - Primary: Blue (#007bff)
 - Secondary: Dark Gray (#212529)
 - Accent: Purple gradient for hero section
 - Background: Light gray (#f8f9fa)
 
-### Typography
+# Typography
 - Font Family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif
 - Responsive font sizes using Bootstrap classes
 
@@ -52,7 +52,7 @@ Simply open `index.html` in any web browser to view the website.
 - **CSS3** - Custom styling and animations
 - **Bootstrap 5.3.0** - Responsive grid system and components
 - **Font Awesome 6.4.0** - Icons and visual elements
-- **Vanilla JavaScript** - Interactive functionality
+
 
 ## 📱 Responsive Breakpoints
 
@@ -81,7 +81,7 @@ Simply open `index.html` in any web browser to view the website.
 
 ## 🛠️ Customization
 
-### Colors
+# Colors
 To change the color scheme, modify the CSS variables in `styles.css`:
 ```css
 :root {
@@ -91,12 +91,12 @@ To change the color scheme, modify the CSS variables in `styles.css`:
 }
 ```
 
-### Content
+## Content
 - Update company information in `index.html`
 - Modify services, portfolio items, and contact details
 - Replace placeholder images with actual project images
 
-### Styling
+## Styling
 - Customize animations in `styles.css`
 - Modify layout and spacing using Bootstrap classes
 - Add new sections by following the existing structure
